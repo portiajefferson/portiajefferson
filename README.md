@@ -3,8 +3,8 @@
 I have a background in FinTech, Accounting, and FrontEnd UI/UX Web Development. I currently attend WGU (Western Governors University) studying to obtain a Bachelor's of Science in Information Systems and Technology, Cybersecurity Concentration and I'm currently the President of the WGU Chapter of WiCys (Women in Cybersecurity).
 
 *<h2>📘 Certifications:</h2>*
-* CompTia A+ISC2 CC
-
+* [Google IT Support Specialist](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
