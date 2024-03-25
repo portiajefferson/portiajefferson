@@ -11,6 +11,12 @@ I have a background in FinTech, Accounting, and FrontEnd UI/UX Web Development. 
 
 *<h2>🌱 I’m currently learning</h2>*
 
+*<h2>🌟 I have experience using</h2>*
+* Bash
+* Python
+* SQL
+* Tableau
+
 *<br><b>📈 Catch My Stats</b></br>*
 
 
