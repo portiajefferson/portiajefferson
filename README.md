@@ -16,6 +16,7 @@ I have a background in FinTech, Accounting, and FrontEnd UI/UX Web Development. 
 * Python
 * SQL
 * Tableau
+* HTML
 
 *<br><b>📈 Catch My Stats</b></br>*
 
