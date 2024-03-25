@@ -7,7 +7,7 @@ I have a background in FinTech, Accounting, and FrontEnd UI/UX Web Development. 
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/portiajefferson/ActiveDirectoryLab/blob/main/README.md)
 
 *<h2>🌱 I’m currently learning</h2>*
 
