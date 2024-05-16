@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Portia 👋🏾| 😄 Pronouns: She/Her<br/></h1>
+<h1>Hi there, I'm Portia 👋🏾| 😄 Pronouns: She/Her/Hers<br/></h1>
 
 I have a background in FinTech, Accounting, and FrontEnd UI/UX Web Development. I currently attend WGU (Western Governors University) studying to obtain a Bachelor's of Science in Information Systems and Technology, Cybersecurity and Information Assurance Concentration and I'm currently the President of the WGU Chapter of WiCys (Women in Cybersecurity).
 
