@@ -3,11 +3,7 @@
 <!-- ============================== -->
 
 <p align="center">
-  <img src="BANNER-SHECYBERHACKS.png" alt="SheCyberHacks Cyberpunk Banner"/>
-</p>
-
-<p align="center">
-  <img src="GLITCH-HEADER.svg" alt="Glitch Header: Portia Jefferson | SheCyberHacks"/>
+  <img src="shecyber-banner.png" alt="SheCyberHacks Cyberpunk Banner"/>
 </p>
 
 <h1 align="center">💜⚡ Portia “CyberBombshell” Jefferson ⚡💜</h1>
