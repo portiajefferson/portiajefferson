@@ -220,7 +220,7 @@ I design systems that blend:
 
 ## 💡 Get Started in AI & Tech  
 
-*Affiliate links coming soon — placeholders below.*
+*Check out the following RESOURCES. Disclaimer: I may receive Affiliate payments for you clicking my link. No extra charge to you, the provider pays the affiliate income.*
 
 - AI Foundations Program — *(link here)*  
 - CourseCareers Tech Path — *(link here)*  
