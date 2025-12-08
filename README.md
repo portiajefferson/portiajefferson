@@ -223,7 +223,7 @@ I design systems that blend:
 *Check out the following RESOURCES. Disclaimer: I may receive Affiliate payments for you clicking my link. No extra charge to you, the provider pays the affiliate income.*
 
 - AI Foundations Program — *(link here)*  
-- CourseCareers Tech Path — *(link here)*  
+- [CourseCareers Tech Path](https://coursecareers.com/a/shecyberhacksit?course=it)  
 - [WGU Referral Scholarship](https://infl.tv/nXMd) 
 - AI Starter Kit — *(link here)*  
 - Cybersecurity Beginner Roadmap — *(link here)*  
