@@ -224,7 +224,7 @@ I design systems that blend:
 
 - AI Foundations Program — *(link here)*  
 - CourseCareers Tech Path — *(link here)*  
-- WGU Referral Scholarship — *(link here)*  
+- [WGU Referral Scholarship](https://infl.tv/nXMd) 
 - AI Starter Kit — *(link here)*  
 - Cybersecurity Beginner Roadmap — *(link here)*  
 
