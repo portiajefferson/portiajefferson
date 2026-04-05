@@ -228,7 +228,8 @@ I design systems that blend:
 - AI Starter Kit — *(link here)*  
 - Cybersecurity Beginner Roadmap — *(link here)*
 - [Learn How to Profit from AI with AI Profit Boardroom](https://www.skool.com/ai-profit-lab-7462/about?ref=ad7e20f3babb4c36ad15be651a41924a)
-- [Become a Certified AI Consultant](https://stan.store/affiliates/d6abe4f7-e5b7-45ba-b9c8-ed5a042aa574)
+- [Become a Certified AI Consultant -INTRO LEVEL](https://stan.store/affiliates/d6abe4f7-e5b7-45ba-b9c8-ed5a042aa574)
+- [Become a Certified AI Consultant - ADVANCED CERTIFICATION FULL PROGRAM](http://www.becomeanaiconsultant.com?fpr=portia95)
 
 ---
 
